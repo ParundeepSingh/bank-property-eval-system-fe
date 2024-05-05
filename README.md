@@ -4,7 +4,7 @@
 
 ## Few Screenshots:
 
-### Part - B : PVS Valuation Requests Screen
+### Part - B : PVS Valuation Requests Screen (Fetches the Requests from Server)
 <img width="1432" alt="Screenshot 2024-05-06 at 3 12 04 AM" src="https://github.com/ParundeepSingh/bank-property-eval-system-fe/assets/52928589/83600991-88e7-4602-b835-bc86c588a0e2">
 
 ### Part - A : New Property Valuation Submission Screen
