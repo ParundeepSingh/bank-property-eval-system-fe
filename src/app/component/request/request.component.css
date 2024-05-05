@@ -1,0 +1,9 @@
+.eye-icon {
+  color: black;
+  padding: 10px 15px;
+}
+
+.pvs-req-action {
+  display: flex;
+  justify-content: space-between;
+}

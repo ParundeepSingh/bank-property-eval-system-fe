@@ -1,0 +1,18 @@
+<div class="header">
+  <nav class="navbar navbar-expand-md bg-light navbar-light">
+    <a class="navbar-brand navBrand" [routerLink]="['new-valuation']">Bank Property Evaluation System</a>
+    <div
+      class="collapse navbar-collapse navLinks justify-content-end"
+      id="nav-collapse">
+      <ul class="navbar-nav">
+        <li class="nav-item" [routerLinkActive]="['active']">
+          <a class="nav-link header-links" [routerLink]="['new-valuation']">New Valuation Submission</a>
+        </li>
+        <li class="nav-item" [routerLinkActive]="['active']">
+          <a class="nav-link header-links" [routerLink]="['pvs-requests']">PVS Valuation Requests</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+<router-outlet></router-outlet>

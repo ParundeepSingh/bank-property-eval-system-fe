@@ -1,0 +1,16 @@
+.pvs-requests {
+  list-style-type: none;
+  margin-left: -2em;
+  padding-top: 12px;
+}
+
+.pvs-requests-header {
+  padding: 12px 0px;
+  text-align: center;
+}
+
+.pvs-requests-container{
+    background-color: #eeeeee;
+    padding-bottom: 20px;
+}
+

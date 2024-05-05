@@ -1,0 +1,18 @@
+.new-valuation-headers {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.new-val-container {
+  background-color: #eeeeee;
+}
+
+.form-block {
+  padding: 20px;
+  margin: 20px;
+}
+
+.fos-checkbox{
+    padding-left: 40px;
+}
