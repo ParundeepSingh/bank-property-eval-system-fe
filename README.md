@@ -1,7 +1,5 @@
 # Bank Property Evaluation System (FE)
 
-**Note**: **Because of Time Crunch. Couldn't complete the entire FE. Was mainly focusing on Backend. That is completed and done in a proper way.**
-
 ## Few Screenshots:
 
 ### Part - B : PVS Valuation Requests Screen (Fetches the Requests from Server)
